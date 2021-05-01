@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501682247926",
+    "firebase_url": "https://testingfcm-9a137.firebaseio.com",
+    "project_id": "testingfcm-9a137",
+    "storage_bucket": "testingfcm-9a137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501682247926:android:f7c0ce9e6e29e2ee50f4d7",
+        "android_client_info": {
+          "package_name": "com.neevista.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501682247926-hiruqraf2k9us0nhj3nni1sgrannv907.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNPZrmuMbZkSs0PDWXySj_9E9b02XCu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501682247926-hiruqraf2k9us0nhj3nni1sgrannv907.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501682247926-h0gdcus1op2rdk8gfgc3bi33fcmoqle9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neevista.foodapp",
+                "app_store_id": "9234841608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
